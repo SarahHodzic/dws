@@ -6,5 +6,5 @@ Neki tekst
 Sarah Hodzic
 
 Studentica sam Prirodno-matematickog fakulteta u Sarajevu smjer Teorijske kompjuterske nauke
-neki dodatni tekst
+I imam 22 godine
 
